@@ -6,5 +6,5 @@
 * **Fotos:**
 
 <div align="center">
-   <img src="proteus.PNG" alt="diagrama" width="50%" height="20%"/></center>
+   <img src="proteus.png" alt="diagrama" width="50%" height="20%"/></center>
 </div>
