@@ -2,8 +2,8 @@
 #include "def.h"
 
 float setpoint;
-float gainH = 1;
-float gainF = 1;
+float gainH = 10;
+float gainF = 10;
 int heatPWM;
 int fanPWM;
 int inh = 0;
