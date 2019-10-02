@@ -4,8 +4,8 @@
 float setpoint;
 float gainH = 10;
 float gainF = 10;
-int heatPWM;
-int fanPWM;
+int heatPWM = 0;
+int fanPWM = 0;
 int inh = 0;
 int inf = 0;
 int heatState = 0;

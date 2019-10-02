@@ -16,7 +16,7 @@
 #define IN1		   			5
 #define IN2		   			6
 #define ENABLE	   			7
-#define PIN_HEART_BEATING 	A1
+#define PIN_HEART_BEATING 	0
 
 /* DELAY HEARTBEAT */
 #define DELAY_HEART_BEATING 500
