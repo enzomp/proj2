@@ -28,6 +28,8 @@
   * Sensor de temperatura LM35
   * Ponte H L239D
  
+ 
+ 
 * **Fotos:**
 
 <div align="center">
