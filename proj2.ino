@@ -3,14 +3,14 @@
 
 void heartbeat()
 {
-	static unsigned long long int millis_heart_beating;
+	static unsigned long long int millis_heart_beating = 0;
 
 	if(driverState == 1)
 	{
 		if(millis()-millis_heart_beating >= DELAY_HEART_BEATING)
 		{
 			millis_heart_beating = millis();
-			digitalWrite(PIN_HEART_BEATING, HIGH);
+			digitalWrite(PIN_HEART_BEATING, !digitalRead(PIN_HEART_BEATING));
 		}
 	}
 	else if(driverState == 0) digitalWrite(PIN_HEART_BEATING, HIGH);
