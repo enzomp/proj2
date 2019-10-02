@@ -27,7 +27,7 @@ void controlador()
 {
 	inh = (setpoint - tempAtual) * gainH;
 	if(inh > 70) inh = 70;
-	inf = (setpoint - tempAtual) * gainF;
+	inf = (setpoint + tempAtual) * gainF;
 	if(inf > 255) inf = 255;
 	if(inf < 56) inf = 56;
 }
