@@ -10,7 +10,7 @@
  * Se o Manual Mode for ativado, aparecerão duas novas telas: Heat Manual e Fan Manual, onde se pode ativar ou desativar um dos dois, e também controlar a intensidade (PWM) independente da temperatura, porém, enquanto um está ligado, o outro DEVE estar desligado.
  * Driver Status: Ativa ou desativa o controlador de calor.
  
-  Além disso, existe um LED para indicação de funcionamento do driver (heartbeat). Quando o driver está ON, o led pisca a cada 500ms. Se o driver está OFF, o LED fica aceso indeterminadamente.
+  Além disso, existe um LED para indicação de funcionamento do driver (heartbeat). Quando o driver está ON, o led pisca a cada 500ms. Se o driver está OFF, o LED fica aceso indeterminadamente. O projeto foi desenvolvido utilizando a Sloeber IDE.
   
  * **Material Utilizado:**
  
