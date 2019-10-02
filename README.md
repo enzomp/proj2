@@ -1,5 +1,9 @@
 # Sistema de Controle de Temperatura
 
+<div align="center">
+   <img src="diagrama.png" alt="diagrama" width="50%" height="20%"/></center>
+</div>
+
 * **Descrição do projeto:**
  
  O sistema foi projetado para controlar a temperatura de um ambiente, utilizando um controlador do tipo Proporcional. A interface do usuário é composta por um display LCD 16x2 e quatro botões de controle. O sistema contém algumas telas, tais como:
