@@ -33,5 +33,9 @@
 * **Fotos:**
 
 <div align="center">
+   <img src="montagem.jpeg" alt="fotos" width="50%" height="20%"/></center>
+</div>
+
+<div align="center">
    <img src="proteus.png" alt="diagrama" width="50%" height="20%"/></center>
 </div>
